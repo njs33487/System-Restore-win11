@@ -20,7 +20,7 @@ errors
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[Imgur](https://i.imgur.com/tiXylFl.png)"/>
+<img src="https://imgur.com/tiXylFl"/>
 <br />
 <br />
 
