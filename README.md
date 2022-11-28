@@ -20,7 +20,7 @@ errors
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/tiXylFl"/>
+<img src="https://i.imgur.com/tiXylFl.png" height="80%" width="80%" alt="win11 image restore using DISM "/>
 <br />
 <br />
 
