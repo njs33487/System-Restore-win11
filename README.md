@@ -1,5 +1,3 @@
-# ActiveDirectoryLab
-
 <h1>ActiveDirectoryLab</h1>
 
 <h2>Description</h2>
