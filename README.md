@@ -23,14 +23,3 @@ Launch the utility: <br/>
 <img src="https://i.imgur.com/tiXylFl.png" height="80%" width="80%" alt="win11 image restore using DISM "/>
 <br />
 <br />
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
